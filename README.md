@@ -34,8 +34,9 @@ Step 7: Save and run the application.
 
 
 Program to create a layout by click button option ,open google page using Implicit Intents in Android Studio. .
-Developed by: praveen s
-RegisterNumber: 212222240077
+
+   Developed by: praveen s
+   RegisterNumber: 212222240077
 
 
 
